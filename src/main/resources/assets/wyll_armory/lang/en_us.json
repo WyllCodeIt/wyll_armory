@@ -1,0 +1,29 @@
+{
+  "item.wyll_armory.primordial_gem": "§6Primordial gem",
+  "item.wyll_armory.primordial_metal": "§6Primordial metal",
+
+  "item.wyll_armory.primordial_sword": "§6Primordial sword",
+  "item.wyll_armory.primordial_pickaxe": "§6Primordial pickaxe",
+  "item.wyll_armory.primordial_axe": "§6Primordial axe",
+  "item.wyll_armory.primordial_shovel": "§6Primordial shovel",
+  "item.wyll_armory.primordial_hoe": "§6Primordial hoe",
+  "item.wyll_armory.primordial_hammer" : "§6Primordial hammer",
+  "item.wyll_armory.primordial_helmet" : "§6Primordial helmet",
+  "item.wyll_armory.primordial_chestplate" : "§6Primordial chestplate",
+  "item.wyll_armory.primordial_leggings" : "§6Primordial leggings",
+  "item.wyll_armory.primordial_boots" : "§6Primordial boots",
+  "item.wyll_armory.primordial_bow" : "§6Primordial bow",
+  "item.wyll_armory.primordial_shield" : "§6Primordial shield",
+
+
+  "block.wyll_armory.primordial_gem_ore": "§6Primordial gem ore",
+
+  "enchantment.wyll_armory.lightning_striker" : "Lightning Striker",
+
+  "creativetab.wyll_armory": "Wyll's Armory",
+
+
+  "tooltip.wyll_armory.slowingsword": "§3On Hit§r applies Slowness to the enemy",
+  "tooltip.wyll_armory.full_armor_effect":"§3On equip full armor§r give Regeneration, Water breathing and Fire Resistance effect"
+
+}

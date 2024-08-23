@@ -1,0 +1,6 @@
+{
+    "parent": "wyll_armory:item/primordial_bow",
+    "textures": {
+        "layer0": "wyll_armory:item/primordial_bow_pulling_2"
+    }
+}
